@@ -1,4 +1,4 @@
-package com.erzhanov.study.intro;
+package design_patterns_practice.intro;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {
